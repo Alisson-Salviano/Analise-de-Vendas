@@ -1,29 +1,32 @@
 # Análise de Vendas - E-commerce
 Este projeto de análise de dados foi desenvolvido com o objetivo de aplicar conceitos de SQL e Power BI na prática, utilizando um conjunto de dados de vendas de e-commerce.
 
- # 🛍️ Análise de Vendas - Northwind (SQLite) com Power BI
+# 📈 Análise de Vendas - Projeto com Power BI e Banco de Dados DSA (Capítulo 15)
 
-Este projeto tem como objetivo realizar uma análise exploratória de dados comerciais utilizando o banco de dados **Northwind**, versão em **SQLite**. Através de consultas SQL e visualizações no Power BI, foram extraídos insights relevantes sobre clientes, produtos, pedidos, fornecedores e regiões.
+Este projeto foi desenvolvido com base no conteúdo do **Capítulo 15** do curso **"Microsoft Power BI Para Business Intelligence e Data Science"**, da [Data Science Academy (DSA)](https://www.datascienceacademy.com.br). O objetivo é aplicar na prática os conhecimentos em análise de dados, modelagem e visualização utilizando **Power BI**, com apoio de um banco de dados relacional completo.
 
 ---
 
 ## 🧰 Ferramentas Utilizadas
 
-- SQLite (banco de dados local)
-- DB Browser for SQLite (interface para SQLite)
-- Power BI (dashboard e visualizações)
-- GitHub (versionamento e portfólio)
+- Power BI (ETL, modelagem e dashboard)
+- SQL (consultas exploratórias)
+- DB Browser for SQLite (visualização do banco)
+- GitHub (versionamento do projeto)
 
 ---
 
 ## 📦 Fonte do Banco de Dados
 
-O banco utilizado é uma versão em **SQLite** do clássico banco **Northwind**, que simula as operações de uma empresa distribuidora de produtos diversos.
+O banco de dados utilizado neste projeto faz parte do material didático do curso da DSA e está localizado no **Capítulo 15** da formação.
 
-🔗 **Repositório oficial do dataset:**  
-[https://github.com/jpwhite3/northwind-SQLite3](https://github.com/jpwhite3/northwind-SQLite3)
+🔗 **Curso oficial:**  
+[Microsoft Power BI Para Business Intelligence e Data Science – DSA](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)
 
-📜 **Créditos ao criador original:**  
-Repositório mantido por [jpwhite3](https://github.com/jpwhite3) com o objetivo de oferecer uma versão leve e acessível do Northwind para estudos em SQLite.
+📜 **Créditos:**  
+Todos os direitos do banco de dados pertencem à **Data Science Academy (DSA)** e foram utilizados aqui exclusivamente para fins educacionais, conforme orientação da própria plataforma.
 
 ---
+
+## 🧠 Primeira Query de Análise
+(Em andamento)
