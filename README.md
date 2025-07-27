@@ -1,4 +1,4 @@
-# Análise de Vendas - E-commerce
+# Análise de Vendas
 Este projeto de análise de dados foi desenvolvido com o objetivo de aplicar conceitos de SQL e Power BI na prática, utilizando um conjunto de dados de vendas.
 
 # 📈 Análise de Vendas - Projeto com Power BI e Banco de Dados DSA (Capítulo 15)
