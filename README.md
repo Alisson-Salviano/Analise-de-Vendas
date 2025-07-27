@@ -25,8 +25,3 @@ O banco de dados utilizado neste projeto faz parte do material didático do curs
 
 📜 **Créditos:**  
 Todos os direitos do banco de dados pertencem à **Data Science Academy (DSA)** e foram utilizados aqui exclusivamente para fins educacionais, conforme orientação da própria plataforma.
-
----
-
-## 🧠 Primeira Query de Análise
-(Em andamento)
